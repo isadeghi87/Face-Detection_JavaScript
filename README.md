@@ -1,3 +1,3 @@
-# Face_Detection-JavaScript
+# Face-Detection-JavaScript
 
 
