@@ -14,4 +14,5 @@ JavaScript face recognition API for the browser and nodejs implemented on top of
 ![](Capture2.png)
 
 
-## Source code [link] (https://github.com/justadudewhohacks/face-api.js)
+## Source code 
+[link] (https://github.com/justadudewhohacks/face-api.js)
