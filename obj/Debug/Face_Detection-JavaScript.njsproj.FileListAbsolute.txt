@@ -1,0 +1,3 @@
+C:\Users\crgcomu\Desktop\Iman\Face_detection_js\Face_Detection-JavaScript\obj\Debug\Face_Detection-JavaScript.njsprojAssemblyReference.cache
+C:\Users\crgcomu\Desktop\Iman\Face_detection_js\Face_Detection-JavaScript\obj\Debug\Face_Detection-JavaScript.njsproj.CoreCompileInputs.cache
+C:\Users\crgcomu\Desktop\Iman\Face_detection_js\Face_Detection-JavaScript\bin\Microsoft.NodejsTools.WebRole.dll
