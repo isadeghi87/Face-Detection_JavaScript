@@ -15,4 +15,4 @@ JavaScript face recognition API for the browser and nodejs implemented on top of
 
 
 ## Source code 
-[link] (https://github.com/justadudewhohacks/face-api.js)
+[link](https://github.com/justadudewhohacks/face-api.js)
